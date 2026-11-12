@@ -28,4 +28,4 @@ I built this project to practice my front-end development skills and understand 
 ## Author
 
 Ziaul Haque
-Aspiring Full Stack Web Developer
+Full Stack Web Developer
